@@ -4,9 +4,9 @@ BERT-FRIDE is a transformer-based model developed to analyze user reviews and ex
 
 This repository includes implementations for:
 - **BERT-FRIDE:** Our main model based on BERT.
-- **XLNet-FRIDE:** A variant using XLNet.
-- **RoBERTa-FRIDE:** A variant using RoBERTa.
-- **GPT2-FRIDE:** A variant using GPT-2.
+- **XLNet:** A variant using XLNet.
+- **RoBERTa:** A variant using RoBERTa.
+- **GPT2:** A variant using GPT-2.
 
 ## Repository Structure
 

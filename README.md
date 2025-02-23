@@ -23,5 +23,5 @@ This repository includes implementations for:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BERT-FRIDE.git
+   git clone https://github.com/sohaibcs1/BERT-FRIDE.git
    cd BERT-FRIDE
